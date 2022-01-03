@@ -1,1 +1,1 @@
-# InQool-Trial-Projet
+# InQool-Trial-Project
